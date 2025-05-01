@@ -12,6 +12,3 @@ A script to scrape product details from Amazon UK and save them to a CSV file.
   ```bash
   pip install requests beautifulsoup4
 ```
-
-
-Let me know if you need further adjustments!
